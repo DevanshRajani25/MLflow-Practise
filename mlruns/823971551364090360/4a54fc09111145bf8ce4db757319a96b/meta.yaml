@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/823971551364090360/4a54fc09111145bf8ce4db757319a96b/artifacts
+end_time: 1746970278719
+entry_point_name: ''
+experiment_id: '823971551364090360'
+lifecycle_stage: active
+run_id: 4a54fc09111145bf8ce4db757319a96b
+run_name: brawny-toad-746
+run_uuid: 4a54fc09111145bf8ce4db757319a96b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746970254684
+status: 3
+tags: []
+user_id: Devansh

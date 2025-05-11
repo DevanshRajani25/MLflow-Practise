@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8870b852be484f2eaf2a4008a69b174e/artifacts
+end_time: 1746960903736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8870b852be484f2eaf2a4008a69b174e
+run_name: wistful-finch-612
+run_uuid: 8870b852be484f2eaf2a4008a69b174e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746960903682
+status: 3
+tags: []
+user_id: Devansh

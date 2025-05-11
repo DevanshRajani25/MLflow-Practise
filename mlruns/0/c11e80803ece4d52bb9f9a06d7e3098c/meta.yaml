@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/c11e80803ece4d52bb9f9a06d7e3098c/artifacts
+deleted_time: 1746960754193
+end_time: 1746960665952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c11e80803ece4d52bb9f9a06d7e3098c
+run_name: rogue-hare-696
+run_uuid: c11e80803ece4d52bb9f9a06d7e3098c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746960665891
+status: 4
+tags: []
+user_id: Devansh
