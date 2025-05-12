@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Devansh/Desktop/MLOps/MLflow-Practise/mlruns/103936737318351929/aa44b607ef474907907a633a244f595f/artifacts
+end_time: 1747018042455
+entry_point_name: ''
+experiment_id: '103936737318351929'
+lifecycle_stage: active
+run_id: aa44b607ef474907907a633a244f595f
+run_name: industrious-loon-278
+run_uuid: aa44b607ef474907907a633a244f595f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747018042387
+status: 3
+tags: []
+user_id: Devansh

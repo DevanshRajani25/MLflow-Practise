@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Devansh/Desktop/MLOps/MLflow-Practise/mlruns/103936737318351929/0e6817d93de24862ae09d15cab64ba97/artifacts
+end_time: 1747018042717
+entry_point_name: ''
+experiment_id: '103936737318351929'
+lifecycle_stage: active
+run_id: 0e6817d93de24862ae09d15cab64ba97
+run_name: monumental-sheep-453
+run_uuid: 0e6817d93de24862ae09d15cab64ba97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747018042658
+status: 3
+tags: []
+user_id: Devansh

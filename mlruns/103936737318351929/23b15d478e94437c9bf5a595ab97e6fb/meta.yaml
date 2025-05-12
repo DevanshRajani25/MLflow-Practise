@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Devansh/Desktop/MLOps/MLflow-Practise/mlruns/103936737318351929/23b15d478e94437c9bf5a595ab97e6fb/artifacts
+end_time: 1747018042151
+entry_point_name: ''
+experiment_id: '103936737318351929'
+lifecycle_stage: active
+run_id: 23b15d478e94437c9bf5a595ab97e6fb
+run_name: vaunted-perch-194
+run_uuid: 23b15d478e94437c9bf5a595ab97e6fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747018042097
+status: 3
+tags: []
+user_id: Devansh

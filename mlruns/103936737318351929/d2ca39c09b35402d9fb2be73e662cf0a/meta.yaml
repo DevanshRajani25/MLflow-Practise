@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Devansh/Desktop/MLOps/MLflow-Practise/mlruns/103936737318351929/d2ca39c09b35402d9fb2be73e662cf0a/artifacts
+end_time: 1747018042653
+entry_point_name: ''
+experiment_id: '103936737318351929'
+lifecycle_stage: active
+run_id: d2ca39c09b35402d9fb2be73e662cf0a
+run_name: charming-yak-583
+run_uuid: d2ca39c09b35402d9fb2be73e662cf0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747018042583
+status: 3
+tags: []
+user_id: Devansh

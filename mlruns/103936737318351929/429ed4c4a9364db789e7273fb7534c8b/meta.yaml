@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Devansh/Desktop/MLOps/MLflow-Practise/mlruns/103936737318351929/429ed4c4a9364db789e7273fb7534c8b/artifacts
+end_time: 1747018042767
+entry_point_name: ''
+experiment_id: '103936737318351929'
+lifecycle_stage: active
+run_id: 429ed4c4a9364db789e7273fb7534c8b
+run_name: chill-squid-437
+run_uuid: 429ed4c4a9364db789e7273fb7534c8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747018042720
+status: 3
+tags: []
+user_id: Devansh

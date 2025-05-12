@@ -1,0 +1,16 @@
+aliases: []
+creation_timestamp: 1747018610409
+current_stage: None
+description: ''
+last_updated_timestamp: 1747018610409
+name: Devansh-Model-1
+run_id: 36eceb4968ec407a98db1b3839df7c84
+run_link: ''
+source: file:///C:/Users/Devansh/Desktop/MLOps/MLflow-Practise/mlruns/103936737318351929/36eceb4968ec407a98db1b3839df7c84/artifacts/Random
+  Forest
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Devansh/Desktop/MLOps/MLflow-Practise/mlruns/103936737318351929/36eceb4968ec407a98db1b3839df7c84/artifacts/Random
+  Forest
+user_id: null
+version: 1

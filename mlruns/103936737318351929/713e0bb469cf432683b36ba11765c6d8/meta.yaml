@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Devansh/Desktop/MLOps/MLflow-Practise/mlruns/103936737318351929/713e0bb469cf432683b36ba11765c6d8/artifacts
+end_time: 1747018042215
+entry_point_name: ''
+experiment_id: '103936737318351929'
+lifecycle_stage: active
+run_id: 713e0bb469cf432683b36ba11765c6d8
+run_name: painted-duck-88
+run_uuid: 713e0bb469cf432683b36ba11765c6d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747018042155
+status: 3
+tags: []
+user_id: Devansh

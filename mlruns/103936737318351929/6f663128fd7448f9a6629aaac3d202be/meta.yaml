@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Devansh/Desktop/MLOps/MLflow-Practise/mlruns/103936737318351929/6f663128fd7448f9a6629aaac3d202be/artifacts
+end_time: 1747018042515
+entry_point_name: ''
+experiment_id: '103936737318351929'
+lifecycle_stage: active
+run_id: 6f663128fd7448f9a6629aaac3d202be
+run_name: big-snail-822
+run_uuid: 6f663128fd7448f9a6629aaac3d202be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747018042459
+status: 3
+tags: []
+user_id: Devansh

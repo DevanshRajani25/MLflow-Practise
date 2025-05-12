@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Devansh/Desktop/MLOps/MLflow-Practise/mlruns/103936737318351929/213b210bd76349d0b823e13a92524610/artifacts
+end_time: 1747018042329
+entry_point_name: ''
+experiment_id: '103936737318351929'
+lifecycle_stage: active
+run_id: 213b210bd76349d0b823e13a92524610
+run_name: resilient-ram-711
+run_uuid: 213b210bd76349d0b823e13a92524610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747018042277
+status: 3
+tags: []
+user_id: Devansh

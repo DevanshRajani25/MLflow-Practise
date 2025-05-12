@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Devansh/Desktop/MLOps/MLflow-Practise/mlruns/103936737318351929/36eceb4968ec407a98db1b3839df7c84/artifacts
+end_time: 1747018050130
+entry_point_name: ''
+experiment_id: '103936737318351929'
+lifecycle_stage: active
+run_id: 36eceb4968ec407a98db1b3839df7c84
+run_name: enthused-chimp-712
+run_uuid: 36eceb4968ec407a98db1b3839df7c84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747018036538
+status: 3
+tags: []
+user_id: Devansh

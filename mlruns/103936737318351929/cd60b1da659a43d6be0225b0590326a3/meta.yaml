@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Devansh/Desktop/MLOps/MLflow-Practise/mlruns/103936737318351929/cd60b1da659a43d6be0225b0590326a3/artifacts
+end_time: 1747017223021
+entry_point_name: ''
+experiment_id: '103936737318351929'
+lifecycle_stage: active
+run_id: cd60b1da659a43d6be0225b0590326a3
+run_name: dashing-shad-49
+run_uuid: cd60b1da659a43d6be0225b0590326a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747017203514
+status: 3
+tags: []
+user_id: Devansh

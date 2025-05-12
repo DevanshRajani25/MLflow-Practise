@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Devansh/Desktop/MLOps/MLflow-Practise/mlruns/103936737318351929
+creation_time: 1747017202975
+experiment_id: '103936737318351929'
+last_update_time: 1747017202975
+lifecycle_stage: active
+name: brest-cancer-rf-hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Devansh/Desktop/MLOps/MLflow-Practise/mlruns/103936737318351929/06b822ccf6254385bf038a1679e3e87e/artifacts
+end_time: 1747018042093
+entry_point_name: ''
+experiment_id: '103936737318351929'
+lifecycle_stage: active
+run_id: 06b822ccf6254385bf038a1679e3e87e
+run_name: rumbling-koi-86
+run_uuid: 06b822ccf6254385bf038a1679e3e87e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747018042018
+status: 3
+tags: []
+user_id: Devansh

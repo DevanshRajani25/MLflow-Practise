@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Devansh/Desktop/MLOps/MLflow-Practise/mlruns/103936737318351929/4ec1d1be82544b9792151827afb211ee/artifacts
+end_time: 1747018042275
+entry_point_name: ''
+experiment_id: '103936737318351929'
+lifecycle_stage: active
+run_id: 4ec1d1be82544b9792151827afb211ee
+run_name: brawny-hare-552
+run_uuid: 4ec1d1be82544b9792151827afb211ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747018042218
+status: 3
+tags: []
+user_id: Devansh

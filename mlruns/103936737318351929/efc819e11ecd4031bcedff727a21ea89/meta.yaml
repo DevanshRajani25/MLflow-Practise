@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Devansh/Desktop/MLOps/MLflow-Practise/mlruns/103936737318351929/efc819e11ecd4031bcedff727a21ea89/artifacts
+end_time: 1747018042580
+entry_point_name: ''
+experiment_id: '103936737318351929'
+lifecycle_stage: active
+run_id: efc819e11ecd4031bcedff727a21ea89
+run_name: carefree-shrew-867
+run_uuid: efc819e11ecd4031bcedff727a21ea89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747018042518
+status: 3
+tags: []
+user_id: Devansh
